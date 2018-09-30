@@ -25,9 +25,9 @@ Assim iniciamos o IDE NetBeans, quando ele iniciar clicaremos em <em>Arquivo>Abr
 
 ![2](https://user-images.githubusercontent.com/43484645/46252686-ed204200-c442-11e8-9f1c-9a9e1126e6d9.PNG)
 
-Logo após, veremos uma tela igual a essa abaixo, clicaremos no projeto Trabalho_Pratico1-master
+Logo após, veremos uma tela igual a essa abaixo,quando acharmos o lugar onde o arquivo está salvo, clicaremos no projeto Trabalho_Pratico1-master
 
-![3](https://user-images.githubusercontent.com/43484645/46252715-19d45980-c443-11e8-988c-a5b3e7b577c5.PNG)
+![cc](https://user-images.githubusercontent.com/43484645/46252884-ada72500-c445-11e8-81e5-b77052e0978b.PNG)
 
 Quando o projeto for aberto, ele vai aparecer nessa aba
 
