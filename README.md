@@ -13,6 +13,34 @@ manual para evitar eventuais erros.</p>
 
 <h3> MANUAL DO USUÁRIO </h3>
 
+<p>Ao fazer o downloand do arquivo .zip no repósitorio 
+  
+![capturar](https://user-images.githubusercontent.com/43484645/46252666-73885400-c442-11e8-81cb-a8851dd968a0.PNG)
+
+Vamos extrair-lo e assim obtemos a pasta que vamos usar para execultar o programa
+
+![1](https://user-images.githubusercontent.com/43484645/46252674-ae8a8780-c442-11e8-8827-cea7acb1de4e.PNG)
+
+Assim iniciamos o IDE NetBeans, quando ele iniciar clicaremos em <em>Arquivo>Abrir Projetos</em>:
+
+![2](https://user-images.githubusercontent.com/43484645/46252686-ed204200-c442-11e8-9f1c-9a9e1126e6d9.PNG)
+
+Logo após, veremos uma tela igual a essa abaixo, clicaremos no projeto Trabalho_Pratico1-master
+
+![3](https://user-images.githubusercontent.com/43484645/46252715-19d45980-c443-11e8-988c-a5b3e7b577c5.PNG)
+
+Quando o projeto for aberto, ele vai aparecer nessa aba
+
+![4](https://user-images.githubusercontent.com/43484645/46252737-628c1280-c443-11e8-8a33-d18b61a90c83.PNG)
+
+Assim vamos execultar o arquivo clicando em execultar>Execultar projeto (principal) ou usando o atalho F6
+
+![4 5](https://user-images.githubusercontent.com/43484645/46252753-9f580980-c443-11e8-8583-b9ce4b457066.PNG)
+
+Logo após esse procedimento o Netbeans vai execultar o programa criando e compilando os arquivos na pasta:
+
+![5](https://user-images.githubusercontent.com/43484645/46252779-e6de9580-c443-11e8-8ab6-d0937ed86826.PNG)</p>
+
 <p>Ao executar o programa <strong>Principal</strong> vai aparecer uma mensagem de
 boas-vindas para o usuário, como na imagem abaixo:
 
