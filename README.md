@@ -13,37 +13,40 @@ manual para evitar eventuais erros.</p>
 
 <h3> MANUAL DO USUÁRIO </h3>
 
-<p>Ao fazer o downloand do arquivo .zip no repósitorio 
+<p>Ao entrar no repositorio no site do github, clicaremos em clonar or download e vamos copiar o URL. 
   
-![capturar](https://user-images.githubusercontent.com/43484645/46252666-73885400-c442-11e8-81cb-a8851dd968a0.PNG)
+![capturar](https://user-images.githubusercontent.com/43484645/46360426-cc720b00-c641-11e8-949e-334cbd63234c.PNG)
 
-Vamos extrair-lo e assim obtemos a pasta que vamos usar para execultar o programa
+Quando ja tivermos o URL, vamos abrir o Netbeans e clicaremos em Equipe>Git>Clonar
 
-![1](https://user-images.githubusercontent.com/43484645/46252674-ae8a8780-c442-11e8-8827-cea7acb1de4e.PNG)
+![1](https://user-images.githubusercontent.com/43484645/46360521-06431180-c642-11e8-849e-6e0269dfda69.PNG)
 
-Assim iniciamos o IDE NetBeans, quando ele iniciar clicaremos em <em>Arquivo>Abrir Projetos</em>:
+Assim vai aparecer uma tela igual a abaixo:
 
-![2](https://user-images.githubusercontent.com/43484645/46252686-ed204200-c442-11e8-9f1c-9a9e1126e6d9.PNG)
+![2](https://user-images.githubusercontent.com/43484645/46360604-2ffc3880-c642-11e8-8586-d88e4f8599e9.PNG)
 
-Logo após, veremos uma tela igual a essa abaixo,quando acharmos o lugar onde o arquivo está salvo, clicaremos no projeto Trabalho_Pratico1-master
+Na parte onde tem URL do Repositório vamos adicionar o URL ja copiado. Ai clicamos em próximo, vai aparecer uma tela 
+mandando escolher as ramificações remotas, nesse caso vamos escolher somente a master*.
 
-![cc](https://user-images.githubusercontent.com/43484645/46252884-ada72500-c445-11e8-81e5-b77052e0978b.PNG)
+![3](https://user-images.githubusercontent.com/43484645/46360806-941efc80-c642-11e8-8f56-7a88ac078892.PNG)
 
-Quando o projeto for aberto, ele vai aparecer nessa aba
+Depois de clicarmos em proximo, vai aparecer essa tela, onde você pode escolher o diretório-pai do clone que fizemos
+nesse caso vamos deixar do jeito que está.
 
-![4](https://user-images.githubusercontent.com/43484645/46252737-628c1280-c443-11e8-8a33-d18b61a90c83.PNG)
+![4](https://user-images.githubusercontent.com/43484645/46360923-d0525d00-c642-11e8-84b8-136aebd74de3.PNG)
 
-Assim vamos execultar o arquivo clicando em execultar>Execultar projeto (principal) ou usando o atalho F6
+Quando clicarmos em finalizar, vai aparecer essa janela, onde vai informar que o projeto foi clonado, e se você
+deseja abri-lo. Assim clicaremos em Abrir Projeto.
 
-![4 5](https://user-images.githubusercontent.com/43484645/46252753-9f580980-c443-11e8-8583-b9ce4b457066.PNG)
+![4 5](https://user-images.githubusercontent.com/43484645/46361052-1f988d80-c643-11e8-94d9-81211d589bf9.PNG)
 
-Logo após esse procedimento o Netbeans vai execultar o programa criando e compilando os arquivos na pasta:
+Depois desse procedimento vamos execultar o programa, após ser execultado o programa vai criar e compilar os arquivos na pasta:
 
 ![5](https://user-images.githubusercontent.com/43484645/46252779-e6de9580-c443-11e8-8ab6-d0937ed86826.PNG)</p>
 
 <p>Ao executar o programa <strong>Principal</strong> vai aparecer uma mensagem de
 boas-vindas para o usuário, como na imagem abaixo:
-
+  
 ![tela de boas vindas](https://user-images.githubusercontent.com/43484645/46252209-070a5680-c43c-11e8-9177-a4fbc88ee9d5.PNG)
 
 Quando o usuário clicar em <strong>ok</strong> na caixa de mensagem, vai abrir uma
