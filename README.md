@@ -14,7 +14,7 @@ manual para evitar eventuais erros.</p>
 <h3> MANUAL DO USUÁRIO </h3>
 
 <p>Ao entrar no repositorio no site do github, clicaremos em clonar or download e vamos copiar o URL. 
-  
+
 ![capturar](https://user-images.githubusercontent.com/43484645/46360426-cc720b00-c641-11e8-949e-334cbd63234c.PNG)
 
 Quando ja tivermos o URL, vamos abrir o Netbeans e clicaremos em Equipe>Git>Clonar
